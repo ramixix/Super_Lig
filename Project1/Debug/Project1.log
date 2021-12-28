@@ -1,7 +1,7 @@
 ﻿  team.cpp
 D:\football_lig\Project1\Project1\team.cpp(64,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\football_lig\Project1\Project1\team.cpp(195,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\football_lig\Project1\Project1\team.cpp(204,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\football_lig\Project1\Project1\team.cpp(236,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-D:\football_lig\Project1\Project1\team.cpp(245,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\football_lig\Project1\Project1\team.cpp(196,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\football_lig\Project1\Project1\team.cpp(205,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\football_lig\Project1\Project1\team.cpp(237,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\football_lig\Project1\Project1\team.cpp(246,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
   Project1.vcxproj -> D:\football_lig\Project1\Debug\Project1.exe

@@ -1,13 +1,19 @@
 #include "team.h"
 
 using namespace std;
-
+extern int total_mathcesss;
 int main() {
 
-	Teams Teamss;
-	Teamss.read_teams();
-	Teamss.assign_playrs_to_team();
-	Teamss.print_a_team_info("sdf");
+	//Teams Teamss;
+	//
+	//Teamss.read_teams();
+	//Teamss.assign_playrs_to_team();
+	//Teamss.print_a_team_info("sdf");
+	Lig_operations a;
+	a.dosome();
+	//a.create_lig();
+	//a.print_all_matches_info();
+	//a.print_all_matches_specific_to_aTeam("WHITE");
 	/*Players playersss;
 	playersss.assign_playrs_to_team();
 	playersss.print_players();*/
