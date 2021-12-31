@@ -1,4 +1,5 @@
 #include "team.h"
+#include <CL/opencl.h>
 
 using namespace std;
 extern int total_mathcesss;
